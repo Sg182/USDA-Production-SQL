@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQL_Final_Project",
+            "database": "./final_project.db"
+        }
+    ]
+}
